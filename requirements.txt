@@ -9,3 +9,4 @@ apscheduler
 requests
 psutil
 pyromod
+gunicorn==20.1.0
